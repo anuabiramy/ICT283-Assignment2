@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1638167786 source:c:\my stuff\dont open\school\2021-2022\ict283\assignment2\a2\assignment2\main.cpp
+	"WeatherLog.h"
+	"Parse.h"
+	"BST.h"
+	"MonthlyLog.h"
+	<string>
+	<iostream>
+	<fstream>
+	<ostream>
+	<sstream>
+	<exception>
+	<map>
+
+1638114874 source:c:\my stuff\dont open\school\2021-2022\ict283\assignment2\a2\assignment2\src\bsttest.cpp
+
+1638175662 c:\my stuff\dont open\school\2021-2022\ict283\assignment2\a2\assignment2\include\bst.h
+	<iostream>
+
+1637995481 source:c:\my stuff\dont open\school\2021-2022\ict283\assignment2\a2\assignment2\src\date.cpp
+	"Date.h"
+
+1638175916 c:\my stuff\dont open\school\2021-2022\ict283\assignment2\a2\assignment2\include\date.h
+	<string>
+	<iostream>
+	<ostream>
+
+1638113756 source:c:\my stuff\dont open\school\2021-2022\ict283\assignment2\a2\assignment2\src\datetest.cpp
+
+1637998823 source:c:\my stuff\dont open\school\2021-2022\ict283\assignment2\a2\assignment2\src\monthlylog.cpp
+	"MonthlyLog.h"
+
+1638175558 c:\my stuff\dont open\school\2021-2022\ict283\assignment2\a2\assignment2\include\monthlylog.h
+	"WeatherLog.h"
+	<map>
+
+1637996879 c:\my stuff\dont open\school\2021-2022\ict283\assignment2\a2\assignment2\include\weatherlog.h
+	"Date.h"
+	"Time.h"
+	<string>
+	<iostream>
+
+1638176039 c:\my stuff\dont open\school\2021-2022\ict283\assignment2\a2\assignment2\include\time.h
+	<string>
+	<iostream>
+
+1638115151 source:c:\my stuff\dont open\school\2021-2022\ict283\assignment2\a2\assignment2\src\monthlylogtest.cpp
+
+1637995907 source:c:\my stuff\dont open\school\2021-2022\ict283\assignment2\a2\assignment2\src\parse.cpp
+	"Parse.h"
+
+1637996801 c:\my stuff\dont open\school\2021-2022\ict283\assignment2\a2\assignment2\include\parse.h
+	<string>
+	<iostream>
+	<sstream>
+	<iterator>
+
+1638081597 source:c:\my stuff\dont open\school\2021-2022\ict283\assignment2\a2\assignment2\src\parsetest.cpp
+
+1637995945 source:c:\my stuff\dont open\school\2021-2022\ict283\assignment2\a2\assignment2\src\time.cpp
+	"time.h"
+
+1638114056 source:c:\my stuff\dont open\school\2021-2022\ict283\assignment2\a2\assignment2\src\timetest.cpp
+
+1637995987 source:c:\my stuff\dont open\school\2021-2022\ict283\assignment2\a2\assignment2\src\weatherlog.cpp
+	"WeatherLog.h"
+
+1638115409 source:c:\my stuff\dont open\school\2021-2022\ict283\assignment2\a2\assignment2\src\weatherlogtest.cpp
+
